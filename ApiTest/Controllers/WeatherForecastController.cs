@@ -12,7 +12,7 @@ namespace ApiTest.Controllers
     public class WeatherForecastController : ControllerBase
     {
         /// <summary>
-        /// define const value
+        /// define const value for weather
         /// </summary>
         private static readonly string[] Summaries = new[]
         {
